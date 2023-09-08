@@ -2,4 +2,4 @@
 
 GitHub Tech Talk - July 21, 2023
 
-![](assets/octocat.png)
+![](https://octodex.github.com/images/yogitocat.png)
