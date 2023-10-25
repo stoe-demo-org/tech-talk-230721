@@ -1,1 +1,12 @@
-
+approvals:
+  pattern: "^(:\\+1:|👍)" # must start with thumbs up
+  minimum: 2 # at least two approvals from other people necessary
+  ignore: pr_opener # do not count approval from PR opener
+  from: # has to be either one of the following
+    orgs:
+      - stoe-demo-org
+    collaborators: true
+    users:
+      - stoe
+      - stoe-ghost
+      - stoe-ghost-smurf
