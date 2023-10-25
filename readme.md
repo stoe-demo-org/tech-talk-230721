@@ -2,4 +2,4 @@
 
 GitHub Tech Talk - July 21, 2023
 
-![Godotocat](https://octodex.github.com/images/godotocat.png)
+![we can do it!](https://octodex.github.com/images/mona-the-rivetertocat.png)
